@@ -1,6 +1,6 @@
 # Graph Theory and Shortest Path Algorithms
 
-This project focuses on graph theory, graph connectivity, and algorithms for finding the shortest path and shortest circuit. It is an assignment for the Discrete Mathematics for Computer Science course at Ho Chi Minh City University of Technology (HCMUT) in the Fall 2024 semester.
+This project focuses on graph theory, graph connectivity, and algorithms for finding the shortest path and shortest circuit. It is an assignment for the Discrete Mathematics for Computer Science course at Ho Chi Minh City University of Technology (HCMUT) in the 242 semester.
 
 ## Project Overview
 This project implements algorithms to:
@@ -32,3 +32,9 @@ This project implements algorithms to:
 ## Usage
 1. Clone the repository:
    git clone https://github.com/NghiaTran-Billy/Discrete-Mathematics-Assignment.git
+
+## Author
+- Name: Tran Trung Nghia (GitHub: NghiaTran-Billy)
+- Student ID: 2412278
+- Institution: Ho Chi Minh City University of Technology (HCMUT)
+- Course: Discrete Mathematics for Computer Science, 242 semester
