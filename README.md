@@ -34,7 +34,7 @@ This project implements algorithms to:
    git clone https://github.com/NghiaTran-Billy/Discrete-Mathematics-Assignment.git
 
 ## Author
-- Name: Tran Trung Nghia (GitHub: NghiaTran-Billy)
-- Student ID: 2412278
-- Institution: Ho Chi Minh City University of Technology (HCMUT)
-- Course: Discrete Mathematics for Computer Science, 242 semester
+- **Name**: Tran Trung Nghia (GitHub: NghiaTran-Billy)
+- **Student ID**: 2412278
+- **Institution**: Ho Chi Minh City University of Technology (HCMUT)
+- **Course**: Discrete Mathematics for Computer Science, 242 semester
