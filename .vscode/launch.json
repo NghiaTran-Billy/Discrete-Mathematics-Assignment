@@ -5,49 +5,6 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "g++ - Build and debug active file",
-            "type": "cppdbg",
-            "request": "launch",
-            "program": "/mnt/n/Code_space/AssignmentTeaching/BTL2/Task4/main",
-            "args": [
-                "Task317"
-            ],
-            "stopAtEntry": false,
-            "cwd": "/mnt/n/Code_space/AssignmentTeaching/BTL2/Task4/",
-            "environment": [],
-            "externalConsole": false,
-            "MIMode": "gdb",
-            "setupCommands": [
-                {
-                    "description": "Enable pretty-printing for gdb",
-                    "text": "-enable-pretty-printing",
-                    "ignoreFailures": true
-                }
-            ],
-            "miDebuggerPath": "/usr/bin/gdb"
-        },
-        {
-            "name": "Debug with GDB (Makefile)",
-            "type": "cppdbg",
-            "request": "launch",
-            "program": "${workspaceFolder}/final",
-            "args": [],
-            "stopAtEntry": false,
-            "cwd": "${workspaceFolder}",
-            "environment": [],
-            "externalConsole": false,
-            "MIMode": "gdb",
-            "setupCommands": [
-                {
-                    "description": "Enable pretty-printing for gdb",
-                    "text": "-enable-pretty-printing",
-                    "ignoreFailures": true
-                }
-            ],
-            "preLaunchTask": "Build with Makefile (final)",
-            "miDebuggerPath": "/usr/bin/gdb"
-        },
-        {
             "name": "Build Bellman",
             "type": "cppdbg",
             "request": "launch",
